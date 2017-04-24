@@ -11,4 +11,8 @@
       <p>我、見出し也ける。</p>
     </header>
     
-    <img scr="img/ware.jpg" alt="我"/>
+    <a href="http://koogeki.web.fc2.com/main.html">
+     <img scr="img/ware.jpg" alt="我"/>
+    </a>
+ </body>
+</html>
